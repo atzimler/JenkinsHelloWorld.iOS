@@ -22,22 +22,8 @@ Global
 		Release|iPhoneSimulator = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.AppStore|iPhone.Build.0 = AppStore|iPhone
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.Debug|iPhone.ActiveCfg = Debug|iPhone
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.Debug|iPhone.Build.0 = Debug|iPhone
 		{C275E95E-8F64-44B4-9222-E93E7272960F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
 		{C275E95E-8F64-44B4-9222-E93E7272960F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.Release|iPhone.ActiveCfg = Release|iPhone
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.Release|iPhone.Build.0 = Release|iPhone
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
-		{C275E95E-8F64-44B4-9222-E93E7272960F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
